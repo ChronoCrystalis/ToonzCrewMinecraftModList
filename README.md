@@ -1,5 +1,5 @@
 # ToonzCrewMinecraftModList
-List of minecraft mods for the ToonzCrew server
+List of minecraft mods for the ToonzCrew server.
 
 AI-Improvements-1.19-0.5.1
 alexsmobs-1.21.1
